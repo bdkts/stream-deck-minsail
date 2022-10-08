@@ -2,7 +2,7 @@
   "Description": "Use this to create your own plugin", 
   "Name": "Mainsail Status", 
   "Category": "Templates", 
-  "com.bendalton.mainail.action": {
+  "com.bendalton.mainsail.action": {
     "Name": "Action", 
     "Tooltip": "This is the only action in this plugin"
   },

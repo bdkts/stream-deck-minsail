@@ -9,7 +9,7 @@
         }
       ], 
       "Tooltip": "This is an example tooltip", 
-      "UUID": "com.bendalton.mainail.action"
+      "UUID": "com.bendalton.mainsail.action"
     }
   ], 
   "SDKVersion": 2,

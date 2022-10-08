@@ -2,7 +2,7 @@
   "Description": "Nimm diese Vorlage für dein erstes Plugin", 
   "Name": "Mainsail Status", 
   "Category": "Templates", 
-  "com.bendalton.mainail.action": {
+  "com.bendalton.mainsail.action": {
     "Name": "Action", 
     "Tooltip": "Dies ist die einzige 'Action' in diesem Template"
   },

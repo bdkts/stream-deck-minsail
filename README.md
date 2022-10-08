@@ -46,7 +46,7 @@ Use your utility of choice (or your terminal) to do a full string replace using:
 
 Replace all occurences of:
 
-`com.bendalton.mainail` with `your.identifier.plugin`
+`com.bendalton.mainsail` with `your.identifier.plugin`
 
 and:
 
